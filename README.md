@@ -1,7 +1,7 @@
 ### Hi there 👋 
 
 
-i'm Erfan and i do content on Design and Development , im carzy Programmer and i believe that crazy people are the ones who will change the world
+i'm Erfan and i do content on python and Django etc , im carzy Programmer and i believe that crazy people are the ones who will change the world
 
 
  - 💻 back-end Developer
